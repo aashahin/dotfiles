@@ -1,0 +1,151 @@
+{
+  "window.titleBarStyle": "custom",
+  "editor.inlineSuggest.enabled": true,
+  "terminal.integrated.defaultProfile.linux": "bash",
+  "terminal.integrated.ignoreProcessNames": ["starship", "bash"],
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.fontSize": 20,
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": true,
+    "markdown": true,
+    "scminput": false,
+    "yaml": true,
+    "css": true,
+    "javascriptreact": true,
+    "javascript": false,
+    "dart": false
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.fontFamily": "Hack,'Fira Code','jetbrains mono'",
+  "terminal.integrated.fontFamily": "monospace",
+  "tabnine.experimentalAutoImports": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.autofetch": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "cSpell.userWords": [
+    "Abdelrahman",
+    "Astro",
+    "astrojs",
+    "buillder",
+    "hightlight",
+    "preact",
+    "productpage",
+    "Shaheen",
+    "tailwindcss",
+    "Tajawal",
+    "وسَق"
+  ],
+  "explorer.confirmDragAndDrop": false,
+  "git.enableSmartCommit": true,
+  "files.autoSave": "afterDelay",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "RainbowBrackets.depreciation-notice": false,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "i18n-ally.displayLanguage": "en",
+  "workbench.colorTheme": "GitHub Dark Dimmed",
+  "editor.inlayHints.fontFamily": "Hack",
+  "vim.useSystemClipboard": true,
+  "vim.handleKeys": {
+    "<C-f>": false,
+    "<C-r>": false,
+    "<C-a>": false,
+    "<C-x>": false,
+    "<C-c>": false,
+    "<C-v>": false,
+    "<C-n>": false,
+    "<C-p>": false,
+    "<C-z>": false,
+    "<C-g>": false,
+    "<C-h>": false,
+    "<C-l>": false,
+    "<C-j>": false,
+    "<C-k>": false,
+    "<C-u>": false,
+    "<C-y>": false,
+    "<C-e>": false,
+    "<C-w>": false,
+    "<C-t>": false,
+    "<C-[>": false,
+    "<C-_>": false,
+    "<C-/>": false,
+    "<C-\\>": false
+  },
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 5,
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "400",
+  "editor.letterSpacing": 0.5,
+  "editor.lineHeight": 30,
+  "editor.minimap.enabled": false,
+  "editor.mouseWheelScrollSensitivity": 1,
+  "editor.renderWhitespace": "all",
+  "editor.scrollBeyondLastColumn": 5,
+  "editor.scrollBeyondLastLine": true,
+  "editor.smoothScrolling": true,
+  "editor.suggestFontSize": 20,
+  "editor.suggestLineHeight": 30,
+  "editor.suggestSelection": "first",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.wrappingIndent": "same",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.semanticHighlighting.enabled": true,
+  "editor.semanticTokenColorCustomizations": {
+    "enabled": true,
+    "rules": {
+      "types": "#ff0000",
+      "keywords": "#ff0000",
+      "variables": "#ff0000",
+      "functions": "#ff0000",
+      "parameters": "#ff0000",
+      "classes": "#ff0000",
+      "interfaces": "#ff0000",
+      "enums": "#ff0000",
+      "modules": "#ff0000",
+      "properties": "#ff0000",
+      "fields": "#ff0000",
+      "methods": "#ff0000",
+      "labels": "#ff0000",
+      "strings": "#ff0000",
+      "numbers": "#ff0000",
+      "booleans": "#ff0000",
+      "arrays": "#ff0000",
+      "objects": "#ff0000",
+      "keys": "#ff0000",
+      "null": "#ff0000",
+      "enumsMember": "#ff0000",
+      "constants": "#ff0000"
+    }
+  },
+  "window.zoomLevel": 1,
+  "workbench.settings.applyToAllProfiles": []
+}
